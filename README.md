@@ -26,3 +26,7 @@ It focuses on clean UI design, structured layout, and responsiveness across devi
 
 ## Author
 Hasini Ambati
+CSE(AI) student
+
+## Output
+<img width="1920" height="1046" alt="Screenshot 2026-01-27 140904" src="https://github.com/user-attachments/assets/52402cb5-19e9-4699-92dc-f6d3eb93be67" />
